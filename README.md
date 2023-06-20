@@ -166,3 +166,20 @@ API 文档: https://documenter.getpostman.com/view/19782726/Uze1x5Af
    ```
 
 ## MariaDB 需要10.5以上版本
+
+## DEMO
+
+# Login
+![Image_text]https://github.com/skyscreen/vue-typescript/blob/main/img/login.png
+
+# Main
+![Image_text]https://github.com/skyscreen/vue-typescript/blob/main/img/main.png
+
+# Chart
+![Image_text]https://github.com/skyscreen/vue-typescript/blob/main/img/chart.png
+
+# List
+![Image_text]https://github.com/skyscreen/vue-typescript/blob/main/img/list.png
+
+# Query
+![Image_text]https://github.com/skyscreen/vue-typescript/blob/main/img/query.png
